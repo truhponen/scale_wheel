@@ -14,3 +14,5 @@ To build a scale wheel you need to
 I will add new tops if and when my kid needs those.
 
 Open The Secret of Scales with this magical code wheel.
+
+Note! I don't understand music scales so I might make mistakes.
