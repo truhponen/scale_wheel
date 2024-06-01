@@ -1,4 +1,4 @@
-This project documents scale wheels components in SVG format.
+This project documents music scale wheel's components in SVG format.
 
 This is rip off of Musiclock ([getmusiclock.com](https://www.getmusiclock.com/), [fi.wikipedia.org/...](https://fi.wikipedia.org/wiki/S%C3%A4velkello)) invented by Pietu Pölönen ([fi.wikipedia.org/...](https://fi.wikipedia.org/wiki/Perttu_P%C3%B6l%C3%B6nen)). Check Musiclock's video how this works in practice
 
