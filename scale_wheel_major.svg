@@ -1,0 +1,43 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <defs></defs>
+<!-- Outer circle -->
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="200" cy="200" rx="200" ry="200"></ellipse>
+<!-- Sector lines -->
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 0 200 L 400 200"></path>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 200 0 L 200 400"></path>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 26.794919243112270647255365849413 100 L 373.20508075688772935274463415059 300"></path>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 100 26.794919243112270647255365849413 L 300 373.20508075688772935274463415059"></path>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 300 26.794919243112270647255365849413 L 100 373.20508075688772935274463415059"></path>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 373.20508075688772935274463415059 100 L 26.794919243112270647255365849413 300"></path>'
+<!-- Sweat (A La La Long) -->
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="200" cy="200" rx="120" ry="120"></ellipse>
+<!-- Center hole -->
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="200" cy="200" rx="3" ry="3"></ellipse>
+<!-- Title -->
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 243.215px 41.994px;" x="232.015" y="48.696" transform="matrix(0.964422, 0.264369, -0.264369, 0.964422, -29.921293, 71.150645)">Duuri</text>
+<!-- 1. label -->
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-box: fill-box; transform-origin: 79.9211% 44.583%;" x="232.015" y="48.696" transform="matrix(0.964422, 0.264369, -0.264369, 0.964422, -11.336084, 55.563099)">1.</text>
+<!-- 2. label -->
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 247.882px 41.994px;" x="232.015" y="48.696" transform="matrix(0.747127, 0.664681, -0.664681, 0.747127, 27.632491, 92.733368)"> </text>
+<!-- 3. label -->
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 247.882px 41.994px;" x="232.015" y="48.696" transform="matrix(0.232714, 0.972545, -0.972545, 0.232714, 55.809944, 141.294495)">2.</text>
+<!-- 4. label -->
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 247.882px 41.994px;" x="232.015" y="48.696" transform="matrix(-0.258539, 0.966001, -0.966001, -0.258539, 45.618112, 192.253615)"> </text>
+<!-- 5. label -->
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-box: fill-box; transform-origin: 48.3636% 83.8003%;" x="232.015" y="48.696" transform="matrix(-0.70654, 0.707673, -0.707673, -0.70654, 30.900024, 219.137824)">3.</text>
+<!-- 6. label -->
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 241.617px 49.282px;" x="232.015" y="48.696" transform="matrix(-0.957971, 0.286865, -0.286865, -0.957971, -21.258218, 246.116046)">4.</text>
+<!-- 7. label -->
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 241.617px 49.282px;" x="232.015" y="48.696" transform="matrix(-0.960102, -0.279652, 0.279652, -0.960102, -68.020678, 240.120978)"> </text>
+<!-- 8. label -->
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 241.617px 49.282px;" x="232.015" y="48.696" transform="matrix(-0.703898, -0.710301, 0.710301, -0.703898, -114.183801, 215.540759)">5.</text>
+<!-- 9. label -->
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 241.617px 49.282px;" x="232.015" y="48.696" transform="matrix(-0.23003, -0.973184, 0.973184, -0.23003, -132.169281, 170.576726)"> </text>
+<!-- 10. label -->
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 241.617px 49.282px;" x="232.015" y="48.696" transform="matrix(0.269891, -0.962891, 0.962891, 0.269891, -135.766574, 122.615228)">6.</text>
+<!-- 11. label -->
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 241.617px 49.282px;" x="232.015" y="48.696" transform="matrix(0.678925, -0.734208, 0.734208, 0.678925, -102.792887, 80.648765)"> </text>
+<!-- 12. label -->
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-box: fill-box; transform-origin: 50% 50%;" x="125.899" y="46.297" transform="matrix(0.963864, -0.266394, 0.266394, 0.963864, 41.966365, 57.553929)">7.</text>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="200" cy="200" rx="3" ry="3"></ellipse>
+</svg>
