@@ -1,18 +1,24 @@
 <svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
   <defs></defs>
 <!-- Outer circle -->
-  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="200" cy="200" rx="200" ry="200"></ellipse>
-<!-- Sector lines -->
-  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 0 200 L 400 200"></path>
-  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 200 0 L 200 400"></path>
-  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 26.794919243112270647255365849413 100 L 373.20508075688772935274463415059 300"></path>
-  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 100 26.794919243112270647255365849413 L 300 373.20508075688772935274463415059"></path>
-  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 300 26.794919243112270647255365849413 L 100 373.20508075688772935274463415059"></path>
-  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 373.20508075688772935274463415059 100 L 26.794919243112270647255365849413 300"></path>'
+  <ellipse style="stroke: rgb(0, 0, 0); fill: none;" cx="200" cy="200" rx="200" ry="200"></ellipse>
 <!-- Sweat (A La La Long) -->
-  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="200" cy="200" rx="120" ry="120"></ellipse>
+  <ellipse style="stroke: rgb(0, 0, 0); fill: none;" cx="200" cy="200" rx="120" ry="120"></ellipse>
 <!-- Center hole -->
-  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="200" cy="200" rx="3" ry="3"></ellipse>
+  <ellipse style="stroke: rgb(0, 0, 0); fill: none;" cx="200" cy="200" rx="3" ry="3"></ellipse>
+<!-- Sector lines -->
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 200 0 L 200 80"></path>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 300 26.794919243112270647255365849413 L 260 96.076951545867362388353219509648 "></path>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 373.20508075688772935274463415059 100 L 303.92304845413263761164678049035 140"></path>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 320 200 L 400 200"></path>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 303.92304845413263761164678049035 260 L 373.20508075688772935274463415059 300"></path>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 260 303.92304845413263761164678049035 L 300 373.20508075688772935274463415059"></path>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 200 320 L 200 400"></path>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 140 303.92304845413263761164678049035 L 100 373.20508075688772935274463415059 "></path>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 96.076951545867362388353219509648 260 L 26.794919243112270647255365849413 300"></path>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 0 200 L 80 200"></path>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 26.794919243112270647255365849413 100 L 96.076951545867362388353219509648 140"></path>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 100 26.794919243112270647255365849413 L 140 96.076951545867362388353219509648"></path>
 <!-- Title -->
   <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 243.215px 41.994px;" x="232.015" y="48.696" transform="matrix(0.964422, 0.264369, -0.264369, 0.964422, -29.921293, 71.150645)">Duuri</text>
 <!-- 1. label -->
