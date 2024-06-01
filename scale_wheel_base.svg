@@ -1,18 +1,18 @@
 <svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
   <defs></defs>
 <!-- Outer circle -->
-  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="200" cy="200" rx="200" ry="200"></ellipse>
+  <ellipse style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);" cx="200" cy="200" rx="200" ry="200"></ellipse>
 <!-- Sector lines -->
-  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 0 200 L 400 200"></path>
-  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 200 0 L 200 400"></path>
-  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 26.794919243112270647255365849413 100 L 373.20508075688772935274463415059 300"></path>
-  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 100 26.794919243112270647255365849413 L 300 373.20508075688772935274463415059"></path>
-  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 300 26.794919243112270647255365849413 L 100 373.20508075688772935274463415059"></path>
-  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 373.20508075688772935274463415059 100 L 26.794919243112270647255365849413 300"></path>
+  <path style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);" d="M 0 200 L 400 200"></path>
+  <path style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);" d="M 200 0 L 200 400"></path>
+  <path style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);" d="M 26.794919243112270647255365849413 100 L 373.20508075688772935274463415059 300"></path>
+  <path style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);" d="M 100 26.794919243112270647255365849413 L 300 373.20508075688772935274463415059"></path>
+  <path style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);" d="M 300 26.794919243112270647255365849413 L 100 373.20508075688772935274463415059"></path>
+  <path style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);" d="M 373.20508075688772935274463415059 100 L 26.794919243112270647255365849413 300"></path>
 <!-- Sweat (A La La Long) -->
-  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="200" cy="200" rx="120" ry="120"></ellipse>
+  <ellipse style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);" cx="200" cy="200" rx="120" ry="120"></ellipse>
 <!-- Center hole -->
-  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="200" cy="200" rx="3" ry="3"></ellipse>
+  <ellipse style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);" cx="200" cy="200" rx="3" ry="3"></ellipse>
 <!-- 1. label -->
   <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-box: fill-box; transform-origin: 79.9211% 44.583%;" x="232.015" y="48.696" transform="matrix(0.964422, 0.264369, -0.264369, 0.964422, -20.328836, 8.200982)">F# / Gь</text>
 <!-- 2. label -->
