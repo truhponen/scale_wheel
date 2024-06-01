@@ -6,6 +6,6 @@ To build a scale wheel you need to print base of wheel ("scale_wheel_base.svg") 
 
 Check Musiclock's video how this works in practice
 
-[<img src="https://img.youtube.com/vi/SDUt9Z6IOWU/1.jpg" width="600"](https://youtu.be/SDUt9Z6IOWU?si=Glmrp38TkJGAJ14N)
+[<img src="https://img.youtube.com/vi/SDUt9Z6IOWU/1.jpg" width="600" >](https://youtu.be/SDUt9Z6IOWU?si=Glmrp38TkJGAJ14N)
 
 Open The Secret of Scales with this magical code wheel.
