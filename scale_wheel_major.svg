@@ -1,49 +1,197 @@
-<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
-  <defs></defs>
-<!-- Outer circle -->
-  <ellipse style="stroke: rgb(0, 0, 0); fill: none;" cx="200" cy="200" rx="200" ry="200"></ellipse>
-<!-- Sweat (A La La Long) -->
-  <ellipse style="stroke: rgb(0, 0, 0); fill: none;" cx="200" cy="200" rx="120" ry="120"></ellipse>
-<!-- Center hole -->
-  <ellipse style="stroke: rgb(0, 0, 0); fill: none;" cx="200" cy="200" rx="3" ry="3"></ellipse>
-<!-- Sector lines -->
-  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 200 0 L 200 80"></path>
-  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 300 26.794919243112270647255365849413 L 260 96.076951545867362388353219509648 "></path>
-  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 373.20508075688772935274463415059 100 L 303.92304845413263761164678049035 140"></path>
-  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 320 200 L 400 200"></path>
-  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 303.92304845413263761164678049035 260 L 373.20508075688772935274463415059 300"></path>
-  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 260 303.92304845413263761164678049035 L 300 373.20508075688772935274463415059"></path>
-  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 200 320 L 200 400"></path>
-  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 140 303.92304845413263761164678049035 L 100 373.20508075688772935274463415059 "></path>
-  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 96.076951545867362388353219509648 260 L 26.794919243112270647255365849413 300"></path>
-  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 0 200 L 80 200"></path>
-  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 26.794919243112270647255365849413 100 L 96.076951545867362388353219509648 140"></path>
-  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 100 26.794919243112270647255365849413 L 140 96.076951545867362388353219509648"></path>
-<!-- Title -->
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 243.215px 41.994px;" x="232.015" y="48.696" transform="matrix(0.964422, 0.264369, -0.264369, 0.964422, -29.921293, 71.150645)">Duuri</text>
-<!-- 1. label -->
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-box: fill-box; transform-origin: 79.9211% 44.583%;" x="232.015" y="48.696" transform="matrix(0.964422, 0.264369, -0.264369, 0.964422, -11.336084, 55.563099)">1.</text>
-<!-- 2. label -->
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 247.882px 41.994px;" x="232.015" y="48.696" transform="matrix(0.747127, 0.664681, -0.664681, 0.747127, 27.632491, 92.733368)"> </text>
-<!-- 3. label -->
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 247.882px 41.994px;" x="232.015" y="48.696" transform="matrix(0.232714, 0.972545, -0.972545, 0.232714, 55.809944, 141.294495)">2.</text>
-<!-- 4. label -->
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 247.882px 41.994px;" x="232.015" y="48.696" transform="matrix(-0.258539, 0.966001, -0.966001, -0.258539, 45.618112, 192.253615)"> </text>
-<!-- 5. label -->
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-box: fill-box; transform-origin: 48.3636% 83.8003%;" x="232.015" y="48.696" transform="matrix(-0.70654, 0.707673, -0.707673, -0.70654, 30.900024, 219.137824)">3.</text>
-<!-- 6. label -->
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 241.617px 49.282px;" x="232.015" y="48.696" transform="matrix(-0.957971, 0.286865, -0.286865, -0.957971, -21.258218, 246.116046)">4.</text>
-<!-- 7. label -->
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 241.617px 49.282px;" x="232.015" y="48.696" transform="matrix(-0.960102, -0.279652, 0.279652, -0.960102, -68.020678, 240.120978)"> </text>
-<!-- 8. label -->
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 241.617px 49.282px;" x="232.015" y="48.696" transform="matrix(-0.703898, -0.710301, 0.710301, -0.703898, -114.183801, 215.540759)">5.</text>
-<!-- 9. label -->
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 241.617px 49.282px;" x="232.015" y="48.696" transform="matrix(-0.23003, -0.973184, 0.973184, -0.23003, -132.169281, 170.576726)"> </text>
-<!-- 10. label -->
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 241.617px 49.282px;" x="232.015" y="48.696" transform="matrix(0.269891, -0.962891, 0.962891, 0.269891, -135.766574, 122.615228)">6.</text>
-<!-- 11. label -->
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 241.617px 49.282px;" x="232.015" y="48.696" transform="matrix(0.678925, -0.734208, 0.734208, 0.678925, -102.792887, 80.648765)"> </text>
-<!-- 12. label -->
-  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-box: fill-box; transform-origin: 50% 50%;" x="125.899" y="46.297" transform="matrix(0.963864, -0.266394, 0.266394, 0.963864, 41.966365, 57.553929)">7.</text>
-  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="200" cy="200" rx="3" ry="3"></ellipse>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 400 400"
+   version="1.1"
+   id="svg62"
+   sodipodi:docname="scale_wheel_major.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview64"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.3622282"
+     inkscape:cx="42.577302"
+     inkscape:cy="115.6194"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg62" />
+  <defs
+     id="defs2" />
+  <!-- Outer circle -->
+  <ellipse
+     style="stroke: rgb(0, 0, 0); fill: none;"
+     cx="200"
+     cy="200"
+     rx="200"
+     ry="200"
+     id="ellipse4" />
+  <!-- Sweat (A La La Long) -->
+  <ellipse
+     style="stroke: rgb(0, 0, 0); fill: none;"
+     cx="200"
+     cy="200"
+     rx="120"
+     ry="120"
+     id="ellipse6" />
+  <!-- Center hole -->
+  <ellipse
+     style="stroke: rgb(0, 0, 0); fill: none;"
+     cx="200"
+     cy="200"
+     rx="3"
+     ry="3"
+     id="ellipse8" />
+  <!-- Sector lines -->
+  <path
+     style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+     d="M 200 0 L 200 80"
+     id="path10" />
+  <path
+     style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+     d="M 300 26.794919243112270647255365849413 L 260 96.076951545867362388353219509648 "
+     id="path12" />
+  <path
+     style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+     d="M 373.20508075688772935274463415059 100 L 303.92304845413263761164678049035 140"
+     id="path14" />
+  <path
+     style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+     d="M 320 200 L 400 200"
+     id="path16" />
+  <path
+     style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+     d="M 303.92304845413263761164678049035 260 L 373.20508075688772935274463415059 300"
+     id="path18" />
+  <path
+     style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+     d="M 260 303.92304845413263761164678049035 L 300 373.20508075688772935274463415059"
+     id="path20" />
+  <path
+     style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+     d="M 200 320 L 200 400"
+     id="path22" />
+  <path
+     style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+     d="M 140 303.92304845413263761164678049035 L 100 373.20508075688772935274463415059 "
+     id="path24" />
+  <path
+     style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+     d="M 96.076951545867362388353219509648 260 L 26.794919243112270647255365849413 300"
+     id="path26" />
+  <path
+     style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+     d="M 0 200 L 80 200"
+     id="path28" />
+  <path
+     style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+     d="M 26.794919243112270647255365849413 100 L 96.076951545867362388353219509648 140"
+     id="path30" />
+  <path
+     style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+     d="M 100 26.794919243112270647255365849413 L 140 96.076951545867362388353219509648"
+     id="path32" />
+  <!-- Title -->
+  <text
+     style="font-size:16.8px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="222.16389"
+     y="61.361954"
+     transform="rotate(15.329456)"
+     id="text34">Major</text>
+  <!-- 1. label -->
+  <text
+     style="font-size:16.8px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="240.14497"
+     y="41.388821"
+     transform="rotate(15.329456)"
+     id="text36">1.</text>
+  <!-- 2. label -->
+  <text
+     style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 247.882px 41.994px;"
+     x="232.015"
+     y="48.696"
+     transform="matrix(0.747127, 0.664681, -0.664681, 0.747127, 27.632491, 92.733368)"
+     id="text38" />
+  <!-- 3. label -->
+  <text
+     style="font-size:16.8px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="234.91571"
+     y="-246.81541"
+     transform="rotate(76.543088)"
+     id="text40">2.</text>
+  <!-- 4. label -->
+  <text
+     style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 247.882px 41.994px;"
+     x="232.015"
+     y="48.696"
+     transform="matrix(-0.258539, 0.966001, -0.966001, -0.258539, 45.618112, 192.253615)"
+     id="text42" />
+  <!-- 5. label -->
+  <text
+     style="font-size:16.8px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-4.991786"
+     y="-383.34366"
+     transform="rotate(134.9541)"
+     id="text44">3.</text>
+  <!-- 6. label -->
+  <text
+     style="font-size:16.8px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-136.34402"
+     y="-346.77783"
+     transform="rotate(163.32964)"
+     id="text46">4.</text>
+  <!-- 7. label -->
+  <text
+     style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 241.617px 49.282px;"
+     x="232.015"
+     y="48.696"
+     transform="matrix(-0.960102, -0.279652, 0.279652, -0.960102, -68.020678, 240.120978)"
+     id="text48" />
+  <!-- 8. label -->
+  <text
+     style="font-size:16.8px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-286.82431"
+     y="-97.261459"
+     transform="rotate(-134.74059)"
+     id="text50">5.</text>
+  <!-- 9. label -->
+  <text
+     style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 241.617px 49.282px;"
+     x="232.015"
+     y="48.696"
+     transform="matrix(-0.23003, -0.973184, 0.973184, -0.23003, -132.169281, 170.576726)"
+     id="text52" />
+  <!-- 10. label -->
+  <text
+     style="font-size:16.8px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-143.20885"
+     y="145.78018"
+     transform="rotate(-74.342221)"
+     id="text54">6.</text>
+  <!-- 11. label -->
+  <text
+     style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 241.617px 49.282px;"
+     x="232.015"
+     y="48.696"
+     transform="matrix(0.678925, -0.734208, 0.734208, 0.678925, -102.792887, 80.648765)"
+     id="text56" />
+  <!-- 12. label -->
+  <text
+     style="font-size:16.8px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="136.25569"
+     y="144.77693"
+     transform="rotate(-15.449804)"
+     id="text58">7.</text>
 </svg>
