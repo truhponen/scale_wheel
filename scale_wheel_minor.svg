@@ -119,79 +119,44 @@
      id="text36">1.</text>
   <!-- 2. label -->
   <text
-     style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 247.882px 41.994px;"
-     x="232.015"
-     y="48.696"
-     transform="matrix(0.747127, 0.664681, -0.664681, 0.747127, 27.632491, 92.733368)"
-     id="text38" />
-  <!-- 3. label -->
-  <text
      style="font-size:16.8px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
      x="231.59171"
      y="-248.75128"
      transform="rotate(76.543088)"
      id="text40">2.</text>
-  <!-- 4. label -->
+  <!-- 3. label -->
   <text
      style="font-size:16.8px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
      x="133.27615"
      y="-345.30704"
      transform="rotate(104.98339)"
      id="text42">3.</text>
-  <!-- 5. label -->
-  <text
-     style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-box: fill-box; transform-origin: 48.3636% 83.8003%;"
-     x="232.015"
-     y="48.696"
-     transform="matrix(-0.70654, 0.707673, -0.707673, -0.70654, 30.900024, 219.137824)"
-     id="text44" />
-  <!-- 6. label -->
+  <!-- 4. label -->
   <text
      style="font-size:16.8px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
      x="-136.17589"
      y="-348.83093"
      transform="rotate(163.32964)"
      id="text46">4.</text>
-  <!-- 7. label -->
-  <text
-     style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 241.617px 49.282px;"
-     x="232.015"
-     y="48.696"
-     transform="matrix(-0.960102, -0.279652, 0.279652, -0.960102, -68.020678, 240.120978)"
-     id="text48" />
-  <!-- 8. label -->
+  <!-- 5. label -->
   <text
      style="font-size:16.8px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
      x="-288.63297"
      y="-99.298866"
      transform="rotate(-134.74059)"
      id="text50">5.</text>
-  <!-- 9. label -->
+  <!-- 6. label -->
   <text
      style="font-size:16.8px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
      x="-248.17067"
      y="46.818916"
      transform="rotate(-103.29883)"
      id="text52">6.</text>
-  <!-- 10. label -->
-  <text
-     style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-origin: 241.617px 49.282px;"
-     x="232.015"
-     y="48.696"
-     transform="matrix(0.269891, -0.962891, 0.962891, 0.269891, -135.766574, 122.615228)"
-     id="text54" />
-  <!-- 11. label -->
+  <!-- 7. label -->
   <text
      style="font-size:16.8px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
      x="-12.042624"
      y="180.99994"
      transform="rotate(-47.240319)"
      id="text56">7.</text>
-  <!-- 12. label -->
-  <text
-     style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16.8px; transform-box: fill-box; transform-origin: 50% 50%;"
-     x="125.899"
-     y="46.297"
-     transform="matrix(0.963864, -0.266394, 0.266394, 0.963864, 41.966365, 57.553929)"
-     id="text58" />
 </svg>
